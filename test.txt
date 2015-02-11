@@ -1,1 +1,2 @@
 Hallo, dit is een nieuwe file
+Dit is een nieuwe lijn.
